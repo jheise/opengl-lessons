@@ -10,3 +10,4 @@ Lesson 4 - lit rotating cubes
 Lesson 5 - 2d square drawn as an overlay
 Lesson 6 - make the overlay transparent
 Lesson 7 - write some text to the screen
+Lesson 8 - make overlays dynamic 
